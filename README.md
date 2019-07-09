@@ -1,2 +1,2 @@
 # Minchell-library
-For study,for myself,foe everything.
+For study,for myself,for everything.
